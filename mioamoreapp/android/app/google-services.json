@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "40112008725",
+    "firebase_url": "https://alkhattaba-7fc83-default-rtdb.firebaseio.com",
+    "project_id": "alkhattaba-7fc83",
+    "storage_bucket": "alkhattaba-7fc83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40112008725:android:4bac4013d6cddd3585681c",
+        "android_client_info": {
+          "package_name": "com.example.alkhattaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40112008725-f11b8eva84nmg6oar4l8dpmhet1rbgad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8YY4fy692tLiw_W49GUwln2hBIDqCMkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40112008725-f02ddi2gf1m0m8j73hj8qh1k0jcsv3cp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "40112008725-3g3apu4avp2se95pcqsdupsmqrov0jbj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.khottobaAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40112008725:android:4ca04ad0242d01f585681c",
+        "android_client_info": {
+          "package_name": "com.example.khottoba_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40112008725-f11b8eva84nmg6oar4l8dpmhet1rbgad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8YY4fy692tLiw_W49GUwln2hBIDqCMkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40112008725-f02ddi2gf1m0m8j73hj8qh1k0jcsv3cp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "40112008725-3g3apu4avp2se95pcqsdupsmqrov0jbj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.khottobaAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40112008725:android:11bf8206f429d09f85681c",
+        "android_client_info": {
+          "package_name": "com.qeesma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40112008725-muvooub3bth3n8r5i5luaeojtvuoiv72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qeesma",
+            "certificate_hash": "eb06e474cf59e335d6554feaafb17648a6e9358c"
+          }
+        },
+        {
+          "client_id": "40112008725-f11b8eva84nmg6oar4l8dpmhet1rbgad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8YY4fy692tLiw_W49GUwln2hBIDqCMkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40112008725-f02ddi2gf1m0m8j73hj8qh1k0jcsv3cp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "40112008725-3g3apu4avp2se95pcqsdupsmqrov0jbj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.khottobaAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

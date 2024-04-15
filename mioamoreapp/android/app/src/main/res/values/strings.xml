@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--! Change the facebook app name -->
+  <string name="app_name">Qeesma Nasib</string>
+  <!--! Change the facebook app id -->
+  <string name="facebook_app_id">appID</string>
+
+  <!--! Change facebook login protocol  -->
+  <string name="fb_login_protocol_scheme">fb[appID]</string>
+
+  <!--! Change facebook client token  -->
+  <string name="facebook_client_token">clientToken</string>
+</resources>
